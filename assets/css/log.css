@@ -1,0 +1,38 @@
+body{
+    background-image: url("../../assets/resources/fond/fond_login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: #0009;
+    border-radius: 20px;
+    box-shadow: 15px 15px 30px #000;
+    height: 500px;
+    width: 400px;
+    margin: 60px auto;
+}
+
+.container__logo{
+    text-align: center;
+}
+
+.container__logo img{    
+    width: 100px;
+    height: 100px;
+}
+
+.container__inputs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input__login{
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-shrink: 300px;
+}
+
+.container__register{
+    display: none;
+}
