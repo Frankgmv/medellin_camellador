@@ -3,9 +3,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/* Container */
 .container{
-    background-color: #0009;
+    background-color: #0008;
     border-radius: 20px;
     box-shadow: 15px 15px 30px #000;
     height: 500px;
