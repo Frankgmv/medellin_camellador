@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700&family=Sono:wght@300&display=swap');
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
+@import "employee.css";
+@import "./home.css";
+@import "./index.css";
+@import "./log.css";
+@import "./nav.css";
