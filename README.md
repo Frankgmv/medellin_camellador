@@ -1,8 +1,17 @@
-# Medellín Camellador
+## Medellín Camellador
 
-# Planteamiento del problema
-# 
-# Justificación del proyecto
-# Objetivo General
-# Objetivos especificos
+
+# Justificación
+
+Solucionar el problema de la discersión escolar por falta de recursos  
+
+
+# Authors
+- Kevin Castrillón G
+- Frank Gmv
+
+
+
+
+
 
