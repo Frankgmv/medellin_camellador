@@ -3,12 +3,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.container__logo{
+.container__log{
     background-color: #0008;
     border-radius: 20px;
     box-shadow: 15px 15px 30px #000;
     height: 500px;
-    width: 400px;
+    width: 500px;
     margin: 60px auto;
 }
 
@@ -69,21 +69,32 @@ option{
     height: 150px;
 }
 
+.links__buttons{
+    width: 400px;
+    height: 100%;
+    border: 2px solid #fff;
+}
+
 .cta{
     display: block;
     border: none;
     text-decoration: none;
     background-color: transparent;
     color: #fff;
-    width: 100%;
+    width: 90%;
     padding: 10px 0;
     transition: all .5s;
+    border: 1px solid #000;
 }
 
 
 .cta:hover{
     color: #fffa;
     scale: 1.05;
+}
+
+.links{
+    width: 90%;
 }
 
 .container__register{
