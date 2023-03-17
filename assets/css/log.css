@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.container{
+.container__logo{
     background-color: #0008;
     border-radius: 20px;
     box-shadow: 15px 15px 30px #000;
