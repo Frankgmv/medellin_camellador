@@ -68,7 +68,7 @@
 }
 
 .nav {
-    --padding-container: 0;
+    /* padding: var(--padding-contain   er); */
     height: 100%;
     display: flex;
     align-items: center;
